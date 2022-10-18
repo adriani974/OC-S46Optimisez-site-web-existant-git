@@ -100,11 +100,11 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #212121;
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: #0A0A0A;
 }
 
 .d-bloc .icon-round,
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #212121!important;
 }
 
 .container {
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #212121 !important;
 }
 
 .portfolio-thumb {
